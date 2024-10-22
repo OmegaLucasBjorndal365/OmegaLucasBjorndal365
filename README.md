@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OmegaLucasBjorndal365
+- 👀 I’m interested in 'Automation of infrastructure'
+- 🌱 I’m currently learning PowerShell, Azure, Winows Server, Networking
+- 📫 How to reach me: you probably can't unless you know me
+- ⚡ Fun fact: Fun fact is spelt tcaf nuF backwards
